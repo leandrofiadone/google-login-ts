@@ -46,5 +46,5 @@ export const config: Config = {
     "http://localhost:5173"
   ],
   pingInterval: 600000, // 10 minutos
-  serverUrl: "https://be-google-login-boilerplate.onrender.com"
+  serverUrl: "https://google-login-ts.onrender.com"
 }
